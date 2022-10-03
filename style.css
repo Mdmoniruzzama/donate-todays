@@ -10,9 +10,8 @@ body {
     border: 1px solid;
     padding-top: 10%;
     padding-bottom: 10%;
-    background-image: url(images/donation7.jpg);
-    font-weight: 900;
     font-size: xx-large;
+    background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     height: 100%;
     color: white;
@@ -33,9 +32,39 @@ a {
 
 }
 
+h1 {
+    font-size: xx-large;
+    font-weight: bolder;
+    font-weight: 100;
+}
+
 .donate-today {
     text-align: center;
     padding-top: 15%;
     width: 100%;
     top: 80%;
+}
+
+.half-with {
+    display: flex;
+    gap: 50px;
+    margin-left: 20%;
+    border: 50px;
+}
+
+#color {
+    background-color: tomato;
+    border: 1px tomato;
+    width: 10%;
+    height: 15%;
+    border-radius: 5px;
+}
+
+.Amaount {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.anchor {
+    text-align: center;
 }
