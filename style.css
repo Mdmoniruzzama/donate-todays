@@ -124,3 +124,14 @@ h1 {
     padding-right: 5%;
     padding-top: 10%;
 }
+
+.depend-arya {
+    display: flex;
+    padding-top: 15%;
+}
+
+.ima {
+    padding-left: 15%;
+    padding-right: 10%;
+    border-radius: 50px;
+}
