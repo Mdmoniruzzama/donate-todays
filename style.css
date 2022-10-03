@@ -150,5 +150,33 @@ h1 {
 .text {
     padding-top: 10%;
     padding-right: 5%;
-    padding-left: 4%;
+    padding-left: 3%;
+}
+
+.get-my {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.updates {
+    text-align: center;
+    width: 500px;
+    position: 50px;
+}
+
+.email {
+    text-align: center;
+    padding-top: 15%;
+    border: 10px;
+
+    border-radius: 25px;
+    background-color: wheat;
+}
+
+.footer-arya {
+    text-align: center;
+    background-color: black;
+    color: tomato;
+    padding-top: 10px;
+    font-style: italic;
 }
