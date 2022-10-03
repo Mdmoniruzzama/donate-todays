@@ -3,8 +3,6 @@ body {
 }
 
 
-
-
 .container {
     text-align: center;
     border: 1px solid;
@@ -67,4 +65,62 @@ h1 {
 
 .anchor {
     text-align: center;
+}
+
+
+
+.our-plan {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.donate-arya {
+    display: flex;
+    margin-top: 5%;
+}
+
+.food {
+
+    border-radius: 2%;
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    box-shadow: 10%;
+    margin-right: 2%;
+    background-color: powderblue;
+    height: 200px;
+    width: 80%;
+    position: 2%;
+    padding-right: 5%;
+    padding-top: 10%;
+
+}
+
+.shelter {
+
+    border-radius: 2%;
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    box-shadow: 10%;
+    margin-right: 2%;
+    background-color: slategray;
+    height: 200px;
+    width: 80%;
+    position: 2%;
+    padding-right: 5%;
+    padding-top: 10%;
+}
+
+.education {
+    border-radius: 2%;
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    box-shadow: 10%;
+    margin-right: 2%;
+    background-color: silver;
+    height: 200px;
+    width: 80%;
+    position: 2%;
+    padding-right: 5%;
+    padding-top: 10%;
 }
